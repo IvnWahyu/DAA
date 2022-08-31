@@ -1,0 +1,17 @@
+Tentukan algoritma dan pseudocode volume kerucut (diameter = 5, tinggi = 4) !
+
+Algoritma 
+step 1 mendeklarasikan diameter, tinggi, phi, volume
+step 2 diameter = 5, tinggi = 4, phi= 3.14,
+step 3 menghitung volume = 1/3*phi*(1/2*diameter)^2 *tinggi
+step 4 menampilkan volume
+
+pseudocode
+
+deklarasi
+var diameter, tinggi, phi, volume
+diameter ← 5
+tinggi ← 4
+phi ← 3.14
+volume = 1/3*phi*(1/2*diameter)^2 *tinggi
+write(volume)

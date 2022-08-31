@@ -1,0 +1,34 @@
+Fungsi untuk menukar dua variabel x dan y:
+
+define swap (x,y)
+
+buffer = x
+x = y
+y = buffer
+contoh
+x = 4
+y = 5
+
+buffer = 4
+x = 5
+y = 4
+
+Ada 2 buah: manggis dan pisang. Manggis di piring 1, Pisang di piring 2. Piring 3 kosong.
+Buatlah algoritma dan pseudocode untuk menukar manggis ke piring 2 dan pisang ke piring 1!
+
+define swap (piring 1, piring 2)
+piring 1 = Manggis
+piring 2 = Pisang 
+piring 3 = kosong
+
+Algoritma
+Step 1 letakkan Manggis di piring 3
+Step 2 letakkan pisang di piring 1
+Step 3 letakkan manggis di piring 2
+
+pseudocode
+define swap (piring 1, piring 2)
+piring 3 = manggis
+piring 1 = pisang
+piring 2 = manggis
+

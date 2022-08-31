@@ -1,0 +1,37 @@
+Diketahui sebuah segitiga memiliki ukuran sebagai berikut;
+Alas 25
+Tinggi 30
+Algoritma hitung luas segitiga tersebut?
+
+Algoritma:
+Step 1 Mendeklarasikan luas, alas, dan tinggi
+Step 2 Masukan alas = 25, tinggi = 30
+Step 3 Menghitung luas = ½*alas*tinggi
+Step 4 Menampilkan luas
+
+Pseudocode:
+deklarasi
+var luas, alas, tinggi
+alas ← 25
+tinggi ←30
+luas = ½*alas*tinggi
+write(luas)
+
+
+
+Tentukan algoritma dan pseudocode luas jajar genjang (panjang = 5, tinggi = 3) !
+
+Algoritma
+step 1 deklarasikan panjang, tinggi, luas
+step 2 masukkan panjang = 5, tinggi = 3
+step 3 menghitung luas = panjang * tinggi
+step 4 menampilkan luas
+
+pseudocode
+deklarasi
+var panjang, tinggi, luas
+panjang ← 5
+tinggi ←3
+luas = panjang*tinggi
+write(luas)
+

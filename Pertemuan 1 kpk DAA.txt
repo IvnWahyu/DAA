@@ -1,0 +1,25 @@
+Step 1 jika n = 0, return nilai m sebagai hasil dan stop. Jika tidak, kembali ke step 2
+Step 2 Bagi nilai m denngan n, masukan niali sisanya ke r.
+Step 3 masukkan nilai n ke m dan nilai r ke n. Kembalui ke Step 1
+
+Rumus
+lcm(a,b)=a * b / gcd(a,b)
+a 
+
+
+While n ≠ 0 do
+  r ← m mod n
+  m ← n
+  n ← r
+return m
+
+
+
+Cari nilai KPK dari 3 dan 4
+Tentukan algoritma dan pseudocodenya
+
+gcd(3,4) = gcd(4,3) = gcd(3,1) = gcd(1,0) = 0
+lcm(3,4) = 3.4/1 = 12
+
+
+
